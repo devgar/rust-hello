@@ -1,0 +1,6 @@
+[package]
+name = "rust-hello"
+version = "0.1.0"
+authors = ["Edgar Albalate <dev.gardo@gmail.com>"]
+
+[dependencies]
